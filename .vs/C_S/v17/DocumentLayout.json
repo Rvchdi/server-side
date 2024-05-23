@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\OneDrive\\Bureau\\Projet cs\\C_S\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7523195A-9CC9-4AB0-87DB-83701F583807}|C_S.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet cs\\c_s\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7523195A-9CC9-4AB0-87DB-83701F583807}|C_S.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7523195A-9CC9-4AB0-87DB-83701F583807}|C_S.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet cs\\c_s\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7523195A-9CC9-4AB0-87DB-83701F583807}|C_S.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7523195A-9CC9-4AB0-87DB-83701F583807}|C_S.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet cs\\c_s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7523195A-9CC9-4AB0-87DB-83701F583807}|C_S.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Bureau\\Projet cs\\C_S\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Bureau\\Projet cs\\C_S\\Form2.cs [Conception]",
+              "RelativeToolTip": "Form2.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:40:36.841Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Bureau\\Projet cs\\C_S\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Bureau\\Projet cs\\C_S\\Login.cs [Conception]",
+              "RelativeToolTip": "Login.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:29:51.651Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Bureau\\Projet cs\\C_S\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Bureau\\Projet cs\\C_S\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:04:21.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
